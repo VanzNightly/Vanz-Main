@@ -1,0 +1,10 @@
+{
+  "fonts": [
+    {
+      "name": "JetBrainsMono-ExtraLight",
+      "src": "https://raw.githubusercontent.com/VanzNightly/Vanz-Main/07e570db0485588fb6c128053d8286e6ff888a65/JetBrainsMono-ExtraLight.ttf",
+      "weight": 400,
+      "style": "normal"
+    }
+  ]
+}
