@@ -1,0 +1,11 @@
+{
+    "spec": 1,
+    "name": "JetBrainsMono-ExtraLight",
+    "previewText": "JetBrainsMono-ExtraLight",
+    "main": {
+        "ggsans-Normal": "https://raw.githubusercontent.com/VanzNightly/Vanz-Main/main/JetBrainsMono-ExtraLight.ttf",
+        "ggsans-Medium": "https://raw.githubusercontent.com/VanzNightly/Vanz-Main/main/JetBrainsMono-ExtraLight.ttf",
+        "NotoSans-Normal": "https://raw.githubusercontent.com/VanzNightly/Vanz-Main/main/JetBrainsMono-ExtraLight.ttf",
+        "SourceCodePro-Semibold": "https://raw.githubusercontent.com/VanzNightly/Vanz-Main/main/JetBrainsMono-ExtraLight.ttf"
+    }
+}
